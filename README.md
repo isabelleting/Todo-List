@@ -2,7 +2,7 @@
 
 ## Description 
 
-An assignment with MIT xPro for a Todo list where you can add and delete completed items.
+An assignment with MIT xPro for a ToDo list where you can add and delete completed items.
 
 ## How To Run
 
